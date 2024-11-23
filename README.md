@@ -47,22 +47,22 @@ Example Dataset:
 
 We apply machine learning and NLP techniques to develop the model. Here are the steps followed in the model development:
 
-**Data Preprocessing: Done By the K L Sreya 2022BCD0031**
+**Data Preprocessing:**
 
     Clean and tokenize text.
     Remove stop words and non-alphabetic characters.
     Perform lemmatization or stemming to reduce words to their base form.
 
-**Feature Extraction:Done By the K L Sreya 2022BCD0031**
+**Feature Extraction:**
 
     Convert text data into numerical representations using techniques like TF-IDF (Term Frequency-Inverse Document Frequency).
 
-**Model Training: Done By the K Madhavi 2022BCD0016**
+**Model Training: **
 
     The model is trained using machine learning algorithms such as Logistic Regression, Support Vector Machines (SVM), or Neural Networks.
     Hyperparameters are tuned to improve accuracy.
     
-**Model Evaluation:Done By the K Madhavi 2022BCD0016**
+**Model Evaluation:**
 
     The model is evaluated using accuracy and other metrics such as precision, recall, and F1-score.
     The model’s performance is visualized using confusion matrices and loss/accuracy curves.
